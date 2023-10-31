@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\bin\Debug\Psikoloji Analiz Testi.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\bin\Debug\Psikoloji Analiz Testi.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\bin\Debug\Psikoloji Analiz Testi.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji_Analiz_Testi.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji_Analiz_Testi.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Psikoloji Analiz Testi\Psikoloji Analiz Testi\obj\Debug\Psikoloji Analiz Testi.pdb
